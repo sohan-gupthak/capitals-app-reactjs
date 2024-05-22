@@ -1,0 +1,51 @@
+.bg-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  outline: none;
+  padding: 30px;
+}
+
+.heading {
+  color: #000000;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.selecting-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.option {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+
+.description {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 430;
+  font-size: 16px;
+  margin-left: 6px;
+}
+
+.country {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.selecting-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
